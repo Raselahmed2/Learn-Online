@@ -1,6 +1,7 @@
 
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Roboto Slab', serif;
 }
 
 
@@ -65,4 +66,3 @@ body{
      overflow: hidden;
      text-overflow: ellipsis;
 }
-
